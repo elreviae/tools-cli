@@ -12,6 +12,16 @@
 
 ---
 
+### 🔹 INSTALLER / SUPPRIMER UNE DISTRIBUTION
+
+| Commande | Utilité |
+|---|---|
+| `wsl --list --online` ou `wsl -l -o` | Voir les distributions disponibles |
+| `wsl --install -d <DistroName>` | Installer une nouvelle distrib |
+| `wsl --unregister <DistroName>` | Supprimer une distrib (⚠️ irréversible) |
+
+---
+
 ### 🔹 LANCER / ARRÊTER UNE DISTRIBUTION
 
 | Commande | Utilité |
@@ -24,15 +34,6 @@
 
 ---
 
-### 🔹 INSTALLER / SUPPRIMER UNE DISTRIBUTION
-
-| Commande | Utilité |
-|---|---|
-| `wsl --list --online` | Voir les distributions disponibles |
-| `wsl --install -d <DistroName>` | Installer une nouvelle distrib |
-| `wsl --unregister <DistroName>` | Supprimer une distrib (⚠️ irréversible) |
-
----
 
 ### 🔹 COMMANDES À SAVOIR DANS WSL (Linux)
 
