@@ -1,4 +1,8 @@
 ## 🐧 WSL2 – Les commandes essentielles
+|---|---|
+### 🔹 PRÉREQUIS
+* Avoir : Windows 10 version 2004 et ultérieure (build 19041 et ultérieure) ou Windows 11
+* Installer la commande WSL :  PowerShell en mode Administrateur et commande `wsl --install`
 
 ### 🔹 GÉNÉRAL
 
