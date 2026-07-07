@@ -8,3 +8,4 @@
 [![GitHub](https://img.shields.io/badge/Repo-tools--cli-181717?logo=github&logoColor=white)](https://github.com/elreviae/tools-cli)
 
 * #### [WSL2 - Les commandes essentielles](wsl/wsl-cli.md)
+* #### [WSL2 & Win-KeX - Les Commandes essentielles](wsl/wsl-win-kex.md)
