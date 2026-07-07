@@ -1,0 +1,25 @@
+# 🐧 Commandes essentielles – WSL2 & Win-KeX
+
+
+## 🖼️ Win-KeX (GUI Kali Linux)
+
+| Commande | Description |
+|----------|-------------|
+| `sudo apt install -y kali-win-kex` | Installe Win-KeX |
+| `kex --win -s` | Lance le bureau Kali en **mode fenêtré** (avec son) |
+| `kex --sl -s` | Lance le bureau Kali en **mode transparent** (intégré à Windows) |
+| `kex --esm --ip -s` | Lance le bureau Kali en **mode session améliorée** (RDP) |
+| `kex --kill` | Arrête toutes les sessions Win-KeX |
+| `kex --stop` | Arrête le serveur Win-KeX |
+| `kex --help` | Affiche l'aide de Win-KeX |
+| `sudo apt remove --purge kali-win-kex` | Supprime complètement Win-KeX (interface graphique) |
+
+---
+
+## 🔗 Liens utiles
+
+- [Documentation officielle WSL](https://learn.microsoft.com/fr-fr/windows/wsl/)
+- [Documentation Win-KeX](https://www.kali.org/docs/wsl/win-kex/)
+- [Docker WSL2](https://docs.docker.com/desktop/wsl/)
+
+---
