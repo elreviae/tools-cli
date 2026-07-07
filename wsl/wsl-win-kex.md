@@ -20,6 +20,5 @@
 
 - [Documentation officielle WSL](https://learn.microsoft.com/fr-fr/windows/wsl/)
 - [Documentation Win-KeX](https://www.kali.org/docs/wsl/win-kex/)
-- [Docker WSL2](https://docs.docker.com/desktop/wsl/)
 
 ---
